@@ -1,7 +1,6 @@
 
-*.svg
+
 *.txt
-*.pdf
 /tmp/
 
 ##### Python
